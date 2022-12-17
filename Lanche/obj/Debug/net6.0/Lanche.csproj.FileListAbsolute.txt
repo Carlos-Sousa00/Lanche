@@ -1,0 +1,15 @@
+D:\Lanche\Lanche\Lanche\Lanche\bin\Debug\net6.0\Lanche.exe
+D:\Lanche\Lanche\Lanche\Lanche\bin\Debug\net6.0\Lanche.deps.json
+D:\Lanche\Lanche\Lanche\Lanche\bin\Debug\net6.0\Lanche.runtimeconfig.json
+D:\Lanche\Lanche\Lanche\Lanche\bin\Debug\net6.0\Lanche.dll
+D:\Lanche\Lanche\Lanche\Lanche\bin\Debug\net6.0\Lanche.pdb
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.csproj.AssemblyReference.cache
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.AssemblyInfoInputs.cache
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.AssemblyInfo.cs
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.csproj.CoreCompileInputs.cache
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.dll
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\refint\Lanche.dll
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.pdb
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\Lanche.genruntimeconfig.cache
+D:\Lanche\Lanche\Lanche\Lanche\obj\Debug\net6.0\ref\Lanche.dll
